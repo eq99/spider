@@ -1,0 +1,96 @@
+Rate,Num_Rate_People,Num_Comment,Num_Read_People,Link,Name
+8.6,1406,475,1339,https://book.douban.com/subject/25779298/,利用Python进行数据分析
+8.1,1210,397,1122,https://book.douban.com/subject/24703171/,机器学习实战
+9.0,2226,789,2030,https://book.douban.com/subject/10590856/,统计学习方法
+9.0,1496,377,1483,https://book.douban.com/subject/3288908/,集体智慧编程
+7.7,130,37,121,https://book.douban.com/subject/26670241/,Python金融大数据分析
+9.4,840,224,636,https://book.douban.com/subject/27028517/,流畅的Python
+9.2,422,136,339,https://book.douban.com/subject/26840215/,Hands-On Machine Learning with Scikit-Learn and TensorFlow
+8.2,544,181,502,https://book.douban.com/subject/5377669/,数据挖掘导论
+8.4,1075,290,703,https://book.douban.com/subject/27087503/,深度学习
+9.0,278,98,266,https://book.douban.com/subject/26709315/,Effective Python
+7.9,390,182,415,https://book.douban.com/subject/26616244/,Spark快速大数据分析
+7.7,212,85,228,https://book.douban.com/subject/24746415/,推荐系统
+9.6,737,232,606,https://book.douban.com/subject/30293801/,Python深度学习
+9.5,1381,266,891,https://book.douban.com/subject/2061116/,Pattern Recognition and Machine Learning
+8.4,142,35,110,https://book.douban.com/subject/25746399/,统计自然语言处理（第2版）
+9.5,693,140,464,https://book.douban.com/subject/3294335/,The Elements of Statistical Learning
+9.0,314,51,189,https://book.douban.com/subject/10758624/,Machine Learning
+7.4,221,88,281,https://book.douban.com/subject/6545083/,智能Web算法
+9.5,2440,489,1810,https://book.douban.com/subject/1148282/,计算机程序的构造和解释(原书第2版)
+9.5,2787,516,2857,https://book.douban.com/subject/1230413/,深入理解计算机系统
+9.1,2124,471,2254,https://book.douban.com/subject/3227098/,编程珠玑
+9.0,2148,482,2512,https://book.douban.com/subject/1467587/,UNIX编程艺术
+8.6,2344,511,2740,https://book.douban.com/subject/1152111/,程序员修炼之道
+9.1,2998,605,3972,https://book.douban.com/subject/1052241/,设计模式
+8.6,87,34,87,https://book.douban.com/subject/25735039/,金融数据分析导论：基于R语言
+0,0,1,8,https://book.douban.com/subject/26863820/,多元时间序列分析及金融应用：R语言
+7.8,22,5,25,https://book.douban.com/subject/10743316/,金融计量学
+8.4,64,24,69,https://book.douban.com/subject/33437423/,阿尔法经济学
+7.5,82,31,89,https://book.douban.com/subject/25788071/,打开高频交易的黑箱
+7.5,113,50,123,https://book.douban.com/subject/24698948/,量化投资策略
+0,0,6,9,https://book.douban.com/subject/26594501/,数量化股票投资:技术与策略
+8.8,154,43,197,https://book.douban.com/subject/25984361/,主动投资组合管理
+7.5,211,88,234,https://book.douban.com/subject/25878150/,量化交易
+9.3,311,97,260,https://book.douban.com/subject/26381341/,Python Cookbook（第3版）
+8.8,357,133,353,https://book.douban.com/subject/27044219/,Go程序设计语言
+8.0,25,13,26,https://book.douban.com/subject/26932642/,Python高手之路 第3版
+9.4,660,290,605,https://book.douban.com/subject/30270959/,深度学习入门
+9.0,287,95,257,https://book.douban.com/subject/26854226/,Linux命令行与shell脚本编程大全（第3版）
+9.4,248,80,193,https://book.douban.com/subject/33450010/,动手学深度学习
+9.7,16,7,15,https://book.douban.com/subject/26791781/,Expert Python Programming - Second Edition
+8.2,36,17,40,https://book.douban.com/subject/34262228/,深入理解Python特性
+9.5,170,66,164,https://book.douban.com/subject/27038207/,Deep Learning with Python
+9.5,216,89,190,https://book.douban.com/subject/26727997/,Neural Networks and Deep Learning
+9.0,146,59,145,https://book.douban.com/subject/27011335/,Python for Data Analysis
+9.7,800,214,604,https://book.douban.com/subject/26197294/,Designing Data-Intensive Applications
+9.5,93,25,68,https://book.douban.com/subject/10607365/,Data Structures and Algorithms in Python
+9.5,86,19,48,https://book.douban.com/subject/5397287/,Bayesian Reasoning and Machine Learning
+9.6,336,109,273,https://book.douban.com/subject/26278021/,Fluent Python
+8.4,36,14,40,https://book.douban.com/subject/24669811/,Building Machine Learning Systems with Python
+8.6,253,84,247,https://book.douban.com/subject/24699632/,R语言编程艺术
+7.8,399,120,413,https://book.douban.com/subject/19934150/,大数据
+9.0,256,79,257,https://book.douban.com/subject/24527091/,ggplot2：数据分析与图形艺术
+0,0,1,5,https://book.douban.com/subject/10777610/,Structured Parallel Programming
+9.2,1130,255,723,https://book.douban.com/subject/20432061/,算法导论（原书第3版）
+7.5,18,7,19,https://book.douban.com/subject/26819420/,Python性能分析与优化
+6.8,28,12,25,https://book.douban.com/subject/26387883/,C程序设计新思维
+8.1,433,141,407,https://book.douban.com/subject/26612779/,Redis实战
+9.1,130,50,123,https://book.douban.com/subject/21325184/,Problem Solving with Algorithms and Data Structures Using Python SECOND EDITION
+7.7,357,150,363,https://book.douban.com/subject/27015617/,Go语言实战
+9.4,1418,346,1067,https://book.douban.com/subject/19952400/,算法（第4版）
+8.6,314,118,321,https://book.douban.com/subject/27665114/,Kafka权威指南
+8.3,37,11,33,https://book.douban.com/subject/26761862/,High Performance Spark
+7.4,231,97,232,https://book.douban.com/subject/25791255/,Hive编程指南
+8.2,123,34,108,https://book.douban.com/subject/27115351/,Hadoop权威指南:大数据的存储与分析(第4版)(修订版)(升级版)
+9.0,1383,485,1340,https://book.douban.com/subject/10484692/,Java并发编程实战
+7.8,63,22,71,https://book.douban.com/subject/25706541/,HBase实战
+7.7,15,8,12,https://book.douban.com/subject/26971353/,Hadoop应用架构
+9.7,664,185,523,https://book.douban.com/subject/30329536/,数据密集型应用系统设计
+9.0,60,20,55,https://book.douban.com/subject/34912177/,基于Apache Flink的流处理
+9.1,265,91,302,https://book.douban.com/subject/5252170/,信息检索导论
+7.5,86,33,86,https://book.douban.com/subject/26593179/,Spark机器学习
+7.4,35,7,30,https://book.douban.com/subject/20374756/,并行程序设计导论
+8.5,123,33,141,https://book.douban.com/subject/4861766/,搜索引擎
+8.1,216,59,183,https://book.douban.com/subject/5336893/,Python自然语言处理
+9.6,92,24,72,https://book.douban.com/subject/27154347/,Scikit-Learn与TensorFlow机器学习实用指南（影印版）
+9.3,296,78,198,https://book.douban.com/subject/33437381/,统计学习方法（第2版）
+8.1,360,122,313,https://book.douban.com/subject/30283996/,利用Python进行数据分析 原书第2版
+9.0,151,21,88,https://book.douban.com/subject/4007200/,Probabilistic Graphical Models
+9.2,123,23,84,https://book.douban.com/subject/1789534/,"Information Theory, Inference and Learning Algorithms"
+9.3,556,126,373,https://book.douban.com/subject/26883982/,Deep Learning
+9.1,83,28,77,https://book.douban.com/subject/11226618/,Foundations of Machine Learning
+8.8,364,75,380,https://book.douban.com/subject/1138189/,模式分类
+8.6,124,53,105,https://book.douban.com/subject/2866455/,Reinforcement Learning
+9.6,123,34,102,https://book.douban.com/subject/2403834/,"Speech and Language Processing, 2nd Edition"
+8.0,69,35,66,https://book.douban.com/subject/30236842/,基于深度学习的自然语言处理
+8.5,25,6,25,https://book.douban.com/subject/4284581/,自然语言处理的形式模型
+9.6,617,209,528,https://book.douban.com/subject/21706191/,An Introduction to Statistical Learning
+8.9,221,63,200,https://book.douban.com/subject/2285151/,All of Statistics
+9.6,457,96,368,https://book.douban.com/subject/1888111/,Convex Optimization
+7.3,39,16,46,https://book.douban.com/subject/6516576/,Java语言精粹
+0,0,1,10,https://book.douban.com/subject/11874743/,设计原本
+6.8,30,7,34,https://book.douban.com/subject/26320636/,ZeroMQ
+8.3,50,17,56,https://book.douban.com/subject/6524000/,程序设计实践
+8.7,18,2,21,https://book.douban.com/subject/11602008/,编码整洁之道
+8.3,18,9,21,https://book.douban.com/subject/25966256/,CSS3秘笈
